@@ -1,0 +1,47 @@
+Start testing: Nov 02 12:53 Hora estándar de Argentina
+----------------------------------------------------------
+1/1 Testing: UnitTests
+1/1 Test: UnitTests
+Command: "C:/Users/matias/Desktop/Pruebafallo/build/runUnitTests.exe"
+Directory: C:/Users/matias/Desktop/Pruebafallo/build
+"UnitTests" start time: Nov 02 12:53 Hora estándar de Argentina
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\matias\Desktop\Pruebafallo\ext\googletest\googletest\src\gtest_main.cc
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from Articulo
+[ RUN      ] Articulo.PruebaPrecio
+Se construyo el articulo
+***150***
+[       OK ] Articulo.PruebaPrecio (0 ms)
+[----------] 1 test from Articulo (0 ms total)
+
+[----------] 1 test from Cliente
+[ RUN      ] Cliente.PruebaNombre
+Se construyo el cliente
+***Mellamotest***
+[       OK ] Cliente.PruebaNombre (0 ms)
+[----------] 1 test from Cliente (0 ms total)
+
+[----------] 1 test from Pedido
+[ RUN      ] Pedido.PruebaPedido
+Se construyo el cliente
+Se construyo el articulo
+Se construyo el Pedido
+***ClienteApellidoTest***
+[       OK ] Pedido.PruebaPedido (0 ms)
+[----------] 1 test from Pedido (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"UnitTests" end time: Nov 02 12:53 Hora estándar de Argentina
+"UnitTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 02 12:53 Hora estándar de Argentina

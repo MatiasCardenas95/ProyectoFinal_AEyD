@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20221102-1553-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.25.0-rc2"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-DUE7KKA"
+	OSRelease=" Professional"
+	OSVersion=" (Build 22000)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="1"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="20896"
+	TotalPhysicalMemory="16288"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3693"
+	>
+	<Testing>
+		<StartDateTime>Nov 02 12:53 Hora est[NON-UTF-8-BYTE-0xE1]ndar de Argentina</StartDateTime>
+		<StartTestTime>1667404432</StartTestTime>
+		<TestList>
+			<Test>./UnitTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>UnitTests</Name>
+			<Path>.</Path>
+			<FullName>./UnitTests</FullName>
+			<FullCommandLine>C:\Users\matias\Desktop\Pruebafallo\build\runUnitTests.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0738511</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\matias\Desktop\Pruebafallo\build\runUnitTests.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNk01vwjAMhu/9FT4OJCrQtMukHRBMO0xjFYwTQVMIpoqWxChJ9/Hvl5KAVmjFfGhT9/VrP0k7r4yRpgTNpbnpwc6Shsk9Wzq0jmnuJXdsiu7D054VtsIN33GliOG3ZyVRqdCjayydFaysV++1Zy5Etno4xRrmqeEt1BoXO8YHcJUM9zxbDU6xhidFG66iAM2ntGQ0miBGP6j2Z+JR1B1Mx9ZLUSnKVjBfzuAQ61M2jzSFRSEpWyAIMs7b6ocAFfBjbb/fH90NwzW4xHh97nKBmyFo17s+URSCJ89VL+vWT5QMpNgESMnUeUZ6Y/FifpEqw+AvqBTXVLteYLR5XaVIRf+FKHArt2eHEHPHzYuCLoTOozl/kXwCZJpwvA/oIfXWht4ywlXyv7J28K6P1SO3gy19mebP0P0TgOUmb3YK4xfjxeJxWu9gqsyzX3sOL2w=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Nov 02 12:53 Hora est[NON-UTF-8-BYTE-0xE1]ndar de Argentina</EndDateTime>
+		<EndTestTime>1667404432</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

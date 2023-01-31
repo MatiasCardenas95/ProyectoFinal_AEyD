@@ -1,0 +1,72 @@
+[
+{
+  "directory": "C:/Users/matias/Desktop/Pruebafallo/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/Principal.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Principal.dir/library/Articulo.cpp.obj -c C:/Users/matias/Desktop/Pruebafallo/library/Articulo.cpp",
+  "file": "C:/Users/matias/Desktop/Pruebafallo/library/Articulo.cpp"
+},
+{
+  "directory": "C:/Users/matias/Desktop/Pruebafallo/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/Principal.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Principal.dir/library/Cliente.cpp.obj -c C:/Users/matias/Desktop/Pruebafallo/library/Cliente.cpp",
+  "file": "C:/Users/matias/Desktop/Pruebafallo/library/Cliente.cpp"
+},
+{
+  "directory": "C:/Users/matias/Desktop/Pruebafallo/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/Principal.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Principal.dir/library/Empleado.cpp.obj -c C:/Users/matias/Desktop/Pruebafallo/library/Empleado.cpp",
+  "file": "C:/Users/matias/Desktop/Pruebafallo/library/Empleado.cpp"
+},
+{
+  "directory": "C:/Users/matias/Desktop/Pruebafallo/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/Principal.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Principal.dir/library/Pedido.cpp.obj -c C:/Users/matias/Desktop/Pruebafallo/library/Pedido.cpp",
+  "file": "C:/Users/matias/Desktop/Pruebafallo/library/Pedido.cpp"
+},
+{
+  "directory": "C:/Users/matias/Desktop/Pruebafallo/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/Principal.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Principal.dir/src/Main.cpp.obj -c C:/Users/matias/Desktop/Pruebafallo/src/Main.cpp",
+  "file": "C:/Users/matias/Desktop/Pruebafallo/src/Main.cpp"
+},
+{
+  "directory": "C:/Users/matias/Desktop/Pruebafallo/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/runUnitTests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/runUnitTests.dir/library/Articulo.cpp.obj -c C:/Users/matias/Desktop/Pruebafallo/library/Articulo.cpp",
+  "file": "C:/Users/matias/Desktop/Pruebafallo/library/Articulo.cpp"
+},
+{
+  "directory": "C:/Users/matias/Desktop/Pruebafallo/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/runUnitTests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/runUnitTests.dir/library/Cliente.cpp.obj -c C:/Users/matias/Desktop/Pruebafallo/library/Cliente.cpp",
+  "file": "C:/Users/matias/Desktop/Pruebafallo/library/Cliente.cpp"
+},
+{
+  "directory": "C:/Users/matias/Desktop/Pruebafallo/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/runUnitTests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/runUnitTests.dir/library/Empleado.cpp.obj -c C:/Users/matias/Desktop/Pruebafallo/library/Empleado.cpp",
+  "file": "C:/Users/matias/Desktop/Pruebafallo/library/Empleado.cpp"
+},
+{
+  "directory": "C:/Users/matias/Desktop/Pruebafallo/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/runUnitTests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/runUnitTests.dir/library/Pedido.cpp.obj -c C:/Users/matias/Desktop/Pruebafallo/library/Pedido.cpp",
+  "file": "C:/Users/matias/Desktop/Pruebafallo/library/Pedido.cpp"
+},
+{
+  "directory": "C:/Users/matias/Desktop/Pruebafallo/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/runUnitTests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/runUnitTests.dir/testUnit/Test.cpp.obj -c C:/Users/matias/Desktop/Pruebafallo/testUnit/Test.cpp",
+  "file": "C:/Users/matias/Desktop/Pruebafallo/testUnit/Test.cpp"
+},
+{
+  "directory": "C:/Users/matias/Desktop/Pruebafallo/build/ext/googletest/googlemock",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o CMakeFiles/gmock.dir/src/gmock-all.cc.obj -c C:/Users/matias/Desktop/Pruebafallo/ext/googletest/googlemock/src/gmock-all.cc",
+  "file": "C:/Users/matias/Desktop/Pruebafallo/ext/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "C:/Users/matias/Desktop/Pruebafallo/build/ext/googletest/googlemock",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj -c C:/Users/matias/Desktop/Pruebafallo/ext/googletest/googlemock/src/gmock_main.cc",
+  "file": "C:/Users/matias/Desktop/Pruebafallo/ext/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "C:/Users/matias/Desktop/Pruebafallo/build/ext/googletest/googletest",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o CMakeFiles/gtest.dir/src/gtest-all.cc.obj -c C:/Users/matias/Desktop/Pruebafallo/ext/googletest/googletest/src/gtest-all.cc",
+  "file": "C:/Users/matias/Desktop/Pruebafallo/ext/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "C:/Users/matias/Desktop/Pruebafallo/build/ext/googletest/googletest",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj -c C:/Users/matias/Desktop/Pruebafallo/ext/googletest/googletest/src/gtest_main.cc",
+  "file": "C:/Users/matias/Desktop/Pruebafallo/ext/googletest/googletest/src/gtest_main.cc"
+}
+]
